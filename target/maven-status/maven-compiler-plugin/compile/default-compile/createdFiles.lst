@@ -1,0 +1,7 @@
+boasentregas\distributioncenter\models\DistributionCenter.class
+boasentregas\distributioncenter\models\Address.class
+boasentregas\Application.class
+boasentregas\distributioncenter\controllers\DistributionCenterController.class
+boasentregas\distributioncenter\services\DistributionCenterService.class
+boasentregas\distributioncenter\repositories\DistributionCenterRepository.class
+boasentregas\distributioncenter\services\impl\DistributionCenterServiceImpl.class
